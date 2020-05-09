@@ -4,7 +4,7 @@ Learn about [How to Build a Full Stack RPG Character Generator with MongoDB, Exp
 
 ## MongoDB
 
-Start MongoDB
+Start
 
 ```
 sudo systemctl start mongod
